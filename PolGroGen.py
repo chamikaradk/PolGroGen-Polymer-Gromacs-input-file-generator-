@@ -1,7 +1,7 @@
 ##### Author Chamikara K
 
 
-#####Chain is stitched together from left to right fashion, tied together via terminal H atoms
+#####Chain is stitched together from left to right fashion, tied together via terminal H atoms forming linear chains
 #####       H-Termer-nonmer-Initmer-H 
 #####       <------ <------ <------
 
